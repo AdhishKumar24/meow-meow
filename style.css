@@ -1,0 +1,26 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+    background-color: darkcyan;
+    color:firebrick;   
+}
+#div_1 p{
+  letter-spacing: 7px;
+  color:crimson;
+ font-size: 26px;
+  
+}
+#div_1{
+    background-color:bisque;
+}
+img{
+    width: 370px;
+    height: 300px;
+}
+.footer{
+    width: 100%;
+    background-color: beige;
+    font-size: 20px;
+    bottom: 10;
+    position: fixed;
+    text-shadow: 5px 4px 1px rgb(238, 92, 92);
+}
